@@ -4,7 +4,7 @@ Some facts about this project:
 
 - Using MVVM Architecture Pattern
 - Using Room Persistence
-- Using Pagination with Paging2
+- Using Paging2 for Pagination
 - Using Rawquery for Sorting Data from Local Database
 - Using Shimmer Layout for Loading Animation
 - Using Retrofit and OkHttp Library for Networking
