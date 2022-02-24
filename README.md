@@ -2,7 +2,7 @@
 
 Some facts about this project:
 
-- Using MVVM Architecture Pattern
+- MVVM Architecture Pattern
 - Using Room Persistence
 - Using Paging2 for Pagination
 - Using Rawquery for Sorting Data from Local Database
