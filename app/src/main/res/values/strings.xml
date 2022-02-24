@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="app_logo">App Logo</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="favorite">Favorite</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="poster">Poster</string>
+    <string name="backdrop">Backdrop</string>
+    <string name="genres">Genres</string>
+    <string name="language">Language</string>
+    <string name="duration">Duration</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="backdrop_shadow">Backdrop Shadow</string>
+    <string name="share">Share</string>
+    <string name="error_logo">Error Logo</string>
+    <string name="error_headline">Oh No!</string>
+    <string name="error_message">Something went wrong, please try again later.</string>
+    <string name="no_fav_logo">No Favorite Logo</string>
+    <string name="no_fav_headline">No Favorite Yet!</string>
+    <string name="no_fav_message">You haven\'t marked any favorite.</string>
+    <string name="sort_by">Sort By</string>
+</resources>
