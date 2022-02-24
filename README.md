@@ -2,8 +2,7 @@
 
 Some facts about this project:
 
-- Using MVVM Design Pattern
-- Using Android ViewModels
+- Using MVVM Architecture Pattern
 - Using Room Persistence
 - Using Pagination with Paging2
 - Using Rawquery for Sorting Data from Local Database
