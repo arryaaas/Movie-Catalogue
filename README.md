@@ -3,6 +3,7 @@
 Some facts about this project:
 
 - MVVM Architecture Pattern
+- Using ViewBinding
 - Using Room Persistence
 - Using Paging2 for Pagination
 - Using Rawquery for Sorting Data from Local Database
